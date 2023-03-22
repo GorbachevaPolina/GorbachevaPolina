@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi, I'm Polina, developer from Saint Petersburg, Russia.
+- 👀 Interested in Frontend Development.
+- 💻 Technology Stack: React, Typescript, Redux. 
+- 🌱 Currently learning SASS/SCSS, WebSockets. 
 
 <!--
 **GorbachevaPolina/GorbachevaPolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
