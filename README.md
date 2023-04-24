@@ -21,7 +21,6 @@ My contacts:
 <br />
 <br />
 
-![Gorbacheva Polina GitHub Stats](https://github-readme-stats.vercel.app/api?username=GorbachevaPolina&show_icons=true&theme=dark)
 
 
 <!--
